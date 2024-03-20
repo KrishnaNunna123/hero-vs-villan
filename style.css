@@ -1,0 +1,48 @@
+body{
+    background: url("https://static.toiimg.com/thumb/msid-77659752,width-1280,height-720,resizemode-4/77659752.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+h1{
+    color: white;
+    background: rgba(0, 0, 0, 1);
+    width: 600px;
+    text-align: center;
+    margin: auto;
+}
+
+
+.name{
+    display: flex;
+    justify-content: space-around;
+    background: rgba(0, 0, 0, 1);
+    width: 1200px;
+    margin: auto;
+    margin-top: 30px;
+}
+
+
+h3{
+    color: white;
+    font-size: xx-large;
+}
+
+
+.body{
+    display: flex;
+    justify-content: space-evenly;
+    background: rgba(0, 0, 0, 0.7);
+    margin-top: 20px;
+    border: 2px solid;
+}
+
+
+img{
+    height: 100px;
+    width: 100px;
+    border-radius: 30% 0% 30% 0%;
+    border: 3px solid white;
+    justify-content: space-evenly;
+}
